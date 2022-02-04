@@ -1,0 +1,23 @@
+.modalWrapp{
+    width: 50%!important;
+    height: 150px;
+    border-radius: 20px!important;
+}
+
+.modalTextWrapp{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.text{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.resetButton{
+    height: 40px;
+    width: 70px;
+}
